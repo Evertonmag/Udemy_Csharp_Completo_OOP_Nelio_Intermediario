@@ -15,15 +15,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioProposto", "Exerci
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Heranca_Polimorfismo", "Heranca_Polimorfismo", "{BC73746E-1EC0-4A82-A197-3CAB9367B52B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{5716AED1-41AF-431C-98C6-88FEE726187B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca", "Heranca\Heranca.csproj", "{5716AED1-41AF-431C-98C6-88FEE726187B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicoResolvido", "ExercicoResolvido\ExercicoResolvido.csproj", "{C10B1782-DB36-4002-B949-9F50548033ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicoResolvido", "ExercicoResolvido\ExercicoResolvido.csproj", "{C10B1782-DB36-4002-B949-9F50548033ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioProposto_Heranca_Polimorfismo", "ExercicioProposto_Heranca_Polimorfismo\ExercicioProposto_Heranca_Polimorfismo.csproj", "{C15584E0-274B-4BD5-A416-E368E9617414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioProposto_Heranca_Polimorfismo", "ExercicioProposto_Heranca_Polimorfismo\ExercicioProposto_Heranca_Polimorfismo.csproj", "{C15584E0-274B-4BD5-A416-E368E9617414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Metodos_Abstratos", "Classes_Metodos_Abstratos\Classes_Metodos_Abstratos.csproj", "{EA266270-E7ED-4338-B67F-7B015572C0A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes_Metodos_Abstratos", "Classes_Metodos_Abstratos\Classes_Metodos_Abstratos.csproj", "{EA266270-E7ED-4338-B67F-7B015572C0A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioProposto_ClassesMetodosAbstratos", "ExercicioProposto_ClassesMetodosAbstratos\ExercicioProposto_ClassesMetodosAbstratos.csproj", "{D4B8CF53-4D63-47CA-B731-8C2F28E57B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioProposto_ClassesMetodosAbstratos", "ExercicioProposto_ClassesMetodosAbstratos\ExercicioProposto_ClassesMetodosAbstratos.csproj", "{D4B8CF53-4D63-47CA-B731-8C2F28E57B59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TratamentoExcessoes", "TratamentoExcessoes", "{BC152145-A9E2-4695-A776-C6353E5EE03C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TratamentosExcessoes", "TratamentosExcessoes\TratamentosExcessoes.csproj", "{275D7495-653D-43BF-941D-F4473D39FA7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioExemplo_TratandoExcessoes", "ExercicioExemplo_TratandoExcessoes\ExercicioExemplo_TratandoExcessoes.csproj", "{C59C2558-3FDA-44D8-84C6-3D891C38D896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioProposto_TratandoExcessoes", "ExercicioProposto_TratandoExcessoes\ExercicioProposto_TratandoExcessoes.csproj", "{980B0F75-8356-4B94-A787-49BF9379554B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +75,18 @@ Global
 		{D4B8CF53-4D63-47CA-B731-8C2F28E57B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4B8CF53-4D63-47CA-B731-8C2F28E57B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4B8CF53-4D63-47CA-B731-8C2F28E57B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275D7495-653D-43BF-941D-F4473D39FA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275D7495-653D-43BF-941D-F4473D39FA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275D7495-653D-43BF-941D-F4473D39FA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275D7495-653D-43BF-941D-F4473D39FA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59C2558-3FDA-44D8-84C6-3D891C38D896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59C2558-3FDA-44D8-84C6-3D891C38D896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59C2558-3FDA-44D8-84C6-3D891C38D896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59C2558-3FDA-44D8-84C6-3D891C38D896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980B0F75-8356-4B94-A787-49BF9379554B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980B0F75-8356-4B94-A787-49BF9379554B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980B0F75-8356-4B94-A787-49BF9379554B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980B0F75-8356-4B94-A787-49BF9379554B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +101,9 @@ Global
 		{C15584E0-274B-4BD5-A416-E368E9617414} = {BC73746E-1EC0-4A82-A197-3CAB9367B52B}
 		{EA266270-E7ED-4338-B67F-7B015572C0A1} = {BC73746E-1EC0-4A82-A197-3CAB9367B52B}
 		{D4B8CF53-4D63-47CA-B731-8C2F28E57B59} = {BC73746E-1EC0-4A82-A197-3CAB9367B52B}
+		{275D7495-653D-43BF-941D-F4473D39FA7D} = {BC152145-A9E2-4695-A776-C6353E5EE03C}
+		{C59C2558-3FDA-44D8-84C6-3D891C38D896} = {BC152145-A9E2-4695-A776-C6353E5EE03C}
+		{980B0F75-8356-4B94-A787-49BF9379554B} = {BC152145-A9E2-4695-A776-C6353E5EE03C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B0EC5A5A-EA7B-4286-96DA-6B3B960E2F39}
