@@ -34,11 +34,7 @@ internal class Program
 
                         double vlrTotal = preco * quantidade;
 
-
-
-
                         sw.WriteLine(produto + ";" + vlrTotal.ToString("F2", CultureInfo.InvariantCulture));
-
                     }
                 }
             }
